@@ -2,13 +2,8 @@
 </strong></h3>
 <p style="text-align: left;">Harduino is an Arduino Compatible Input/Output Board that uses the same micro controller as most Arduino boards, the <a href="http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf" target="_blank">ATmega328P</a>.</p>
 
-<h4><strong>0.1 - DESIGN FILES</strong></h4>
-<p style="text-align: left;">The design files are freely available at GitHub and you can both download or fork the project if you want to contribute.</p>
-<p style="text-align: left;"><a href="http://open3dge.com/wp-content/uploads/2015/06/schematic.png"><img class="aligncenter size-large wp-image-6689" src="http://open3dge.com/wp-content/uploads/2015/06/schematic-1024x445.png" alt="schematic" width="1024" height="445" /></a></p>
-<p style="text-align: center;">[kleo_button title="HARDUINO DESIGNS" href="https://github.com/humansthatmake/harduino" style="default" size="lg" icon="github-circled"]</p>
-
 <h4><strong>0.2 - BILL OF MATERIALS</strong></h4>
-<iframe src="https://docs.google.com/spreadsheets/d/1ibOElA56LUYQ1zGwwcC5avGWMOkidIsuDOuW23gPkVk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="340"></iframe>
+https://docs.google.com/spreadsheets/d/1ibOElA56LUYQ1zGwwcC5avGWMOkidIsuDOuW23gPkVk
 
 <h3><strong>1.0 - FLASHING THE BOOTLOADER
 </strong></h3>
